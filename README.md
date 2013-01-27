@@ -1,0 +1,12 @@
+# A bootstrap for IA32 computers.
+
+I've created this to help my students. That's why I won't accept pull requests. (need to keep it plain simple)
+
+OS Implementation is not for the faint of heart. Good luck folks.
+
+Includes:
+
+- Bootstrap
+- A20 gate handling
+- 32 bits Protected Mode 
+- GDT setup
