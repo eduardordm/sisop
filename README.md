@@ -2,6 +2,8 @@
 
 I've created this to help my students. That's why I won't accept pull requests, all de code is commented in portuguese. 
 
+If you are interested in building a full-featured operating system I would recommend using GRUB.
+
 OS Implementation is not for the faint of heart. Good luck folks.
 
 This is how you can compile/run, first clone the repository, then:
